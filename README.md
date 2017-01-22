@@ -1,4 +1,4 @@
-#A lightweight music player developed for android devices 4.1 and up
+#A lightweight music player developed for people who prefer things simple and clean
 ##Developed for android devices 4.1 and up <br />
 
 plays .mp3 files stored in devices <br />
