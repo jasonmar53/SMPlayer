@@ -1,5 +1,5 @@
 #A lightweight music player developed for android devices 4.1 and up
-##developed for android devices 4.1 and up <br />
+##Developed for android devices 4.1 and up <br />
 
 plays .mp3 files stored in devices <br />
 search for songs by name or artist <br />
